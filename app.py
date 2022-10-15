@@ -1,2 +1,2 @@
 print ("Rodando o sistema de gerenciamento de jogos")
-print ("Fim do jogo")
+print ("Conectando no banco de dados")
